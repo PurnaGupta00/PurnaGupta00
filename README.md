@@ -12,7 +12,7 @@
 
 ## 🏀 Favorite Project
 - **Under Construction:** [basketballbox.xyz](https://basketballbox.xyz)  
-  _I'm actively developing this right now!_  
+  _I'm actively developing this right now! The first version of this project is currently available on the listed website!_  
   _Projected finish: August 30_
 
 ## 👨‍💻 About Me
