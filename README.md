@@ -6,7 +6,7 @@ Incoming Software Engineering student at the University of Waterloo ('31). I lik
 
 | Project | Description | Tech |
 |---|---|---|
-| [BasketBallBox](https://basketballbox.xyz) | Live 2-player 3D basketball game. No game engine, just Three.js and WebSockets. | Three.js, WebSockets, JavaScript |
+| [BasketBallBox](https://basketballbox.xyz) | Live 1v1 3D basketball game with first-person controls, multiple player animations (dribble, shoot, dunk, block and more), real-time multiplayer, a coin system, and user auth. No game engine, built entirely from scratch. | Three.js, WebSockets, Node.js, JavaScript |
 | [ForkCast](https://github.com/PengwuinReal/ForkCast) | Take a photo of your food and get the full nutritional breakdown. We used a ResNet-50 model trained on the Food-101 dataset, which had 95% accuracy across 101 food classes, and connected it to live nutritional data. My role was building the backend with the AI and connecting it to the API. Built in a day and a half at a hackathon. | Python, Flask, PyTorch, Spoonacular API |
 | [RAG Pipeline](https://github.com/PurnaGupta00/rag-pipeline) | Production-style RAG system built from scratch. Uses hybrid BM25 and FAISS retrieval merged with Reciprocal Rank Fusion, a cross-encoder reranker, and Llama 3.2 running locally via Ollama. Has a custom eval harness that scores faithfulness, relevancy, and coverage. No paid APIs. | Python, FAISS, LangChain, sentence-transformers, Ollama, Gradio |
 | [Momentum Scanner](https://github.com/PurnaGupta00/StocksScanner) | Day trading scanner that finds explosive small-cap setups every morning. Scrapes Finviz, renders live 5-min candlestick charts with VWAP, and adjusts automatically based on market hours. | Python, Flask, yfinance, BeautifulSoup, TradingView Charts |
