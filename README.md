@@ -1,51 +1,27 @@
-# Hi, I'm Purna (aka TheExpertCoder00) 👋
+# Hi, I'm Purna (a.k.a PurnaGupta00)
 
-## 🎓 Education
-- Currently attending **Moscrop Secondary School**
-- Incoming student at **University of Waterloo — Software Engineering '30**
+Incoming Software Engineering student at the University of Waterloo ('31). I like building things that actually work and actually get used, whether that's AI systems, trading tools, or games from scratch.
 
-## 💡 Top Skills
-- **Python**
-- **JavaScript**
-- **Machine Learning**
-- **HTML**
-- **CSS**
-- **Mathematics**
+## Projects
 
-## 👨‍💻 About Me
-- I love playing and making games — if I can build it myself, even better
-- Really into math and finance (check out my momentum scanner!)
-- I enjoy helping people and working on projects that are actually useful
-- Always picking up something new, whether it's a framework, a concept, or a random idea at 2 AM
+| Project | Description | Tech |
+|---|---|---|
+| [BasketBallBox](https://basketballbox.xyz) | Live 2-player 3D basketball game. No game engine, just Three.js and WebSockets. | Three.js, WebSockets, JavaScript |
+| [ForkCast](https://github.com/PengwuinReal/ForkCast) | Take a photo of your food and get the full nutritional breakdown. We trained a ResNet-50 on the Food-101 dataset, got 95% accuracy across 101 food classes, and connected it to live nutritional data. Built in a day and a half at a hackathon. | Python, Flask, PyTorch, Spoonacular API |
+| [RAG Pipeline](https://github.com/PurnaGupta00/rag-pipeline) | Production-style RAG system built from scratch. Uses hybrid BM25 and FAISS retrieval merged with Reciprocal Rank Fusion, a cross-encoder reranker, and Llama 3.2 running locally via Ollama. Has a custom eval harness that scores faithfulness, relevancy, and coverage. No paid APIs. | Python, FAISS, LangChain, sentence-transformers, Ollama, Gradio |
+| [Momentum Scanner](https://github.com/PurnaGupta00/StocksScanner) | Day trading scanner that finds explosive small-cap setups every morning. Scrapes Finviz, renders live 5-min candlestick charts with VWAP, and adjusts automatically based on market hours. | Python, Flask, yfinance, BeautifulSoup, TradingView Charts |
+| [AI Tutoring Tool](https://github.com/PurnaGupta00/TutoringWebsite) | Type any topic, get a set of practice questions. Built it to help the students I tutor prep faster. | Node.js, JavaScript, OpenAI API |
+| [GlassSmash Simulator](https://github.com/PurnaGupta00/GlassSmashSimulator) | Browser game where you smash glass to relieve stress. Has custom shard physics, streaks, power-ups, and a full coin and crystal economy. Built for HackaMind 2025 with no external frameworks. | HTML5 Canvas, JavaScript |
 
-## 🚀 Projects
-- [basketballbox.xyz](https://basketballbox.xyz)
-  A 2-player 3D basketball game built with Three.js and WebSockets — no game engine, just pure code. Completely free to play!
+## Skills
 
-- [ForkCast](https://github.com/PengwuinReal/ForkCast)
-  A hackathon project I built with friends — take a photo of your food and get a full nutritional breakdown using AI. Pretty cool if you're curious what's actually in your meal.
+Languages: Python, JavaScript, HTML, CSS
 
-- [Momentum Scanner](https://github.com/TheExpertCoder00/StocksScanner)
-  A real-time stock scanner I built to find explosive small-cap setups every morning. Uses Python, Flask, and live market data. Great if you're into trading!
+Interests: Machine Learning, AI Engineering, Game Development, Algo Trading
 
-- [Tutoring Website](https://github.com/TheExpertCoder00/TutoringWebsite)
-  Type in any topic and get AI-generated practice questions. Built it because I wanted a better way to tutor my students.
+## Certifications
+- [Machine Learning, Coursera](Coursera%20MachineLearning.pdf)
+- [Game Development, Coursera](Coursera%20GameMaker.pdf)
 
-- [GlassSmash Simulator](https://github.com/TheExpertCoder00/GlassSmashSimulator)
-  Another hackathon project — a browser game where you smash glass to relieve stress.
-
-## 🏏 Hobbies
-- Cricket
-- Basketball
-- Gaming
-
-## 📜 Certificates
-📜 [Machine Learning Certificate](Coursera%20MachineLearning.pdf)
-🎮 [Game Development Certificate](Coursera%20GameMaker.pdf)
-
-## 📬 Contact
-- **Email:** [guptapurna27@gmail.com](mailto:guptapurna27@gmail.com)
-- **Discord:** thatcricketfan
-
----
-Feel free to reach out if you want to collaborate or just chat!
+## Contact
+Email: guptapurna27@gmail.com · Discord: thatcricketfan
